@@ -1,0 +1,1 @@
+This webpage is a lighthearted and entertaining platform that presents random jokes fetched dynamically using HTML, CSS, and JavaScript. With a clean and interactive interface, users can enjoy a constant stream of humor with just a click of a button.
